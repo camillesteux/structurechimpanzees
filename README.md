@@ -9,4 +9,4 @@ This repository consists of the following directories:
 - snif_inference : parameter files used to run SNIF (Arredondo et al. 2021) on the empirical PSMC curves of chimpanzees (curves from Prado Martinez et al. 2013)
 - snif_validationstep: parameter files used for the "validation step" to run SNIF on the simulated T2 and simulated PSMC under the inferred models
 
-28/08/25 : Scripts used for the admixture part will be uploaded soon.
+28/08/25 : Scripts used for the admixture part will be uploaded soon. We apologize for the inconvenience.
