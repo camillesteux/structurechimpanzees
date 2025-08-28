@@ -5,7 +5,8 @@ Cite: Steux C, Couloigner C, Arredondo A, Rodríguez W, Mazet O, Tournebize R, C
 This repository consists of the following directories:
 - R_codes : codes used to make the figures that appear in the paper
 - general_model_mscommands : ms commands (Hudson 2002) corresponding to the general structured tree model shown in Figure 7 of the paper for different values of splitting times
-- simulated_genomic_stats : scripts used to compute the genetic diversity and the genetic differentiation of the genomic simulated data (simulated with ms using the ms commands mentioned above)
+- general_model_withsubspmig_mscommands : ms commands corresponding to the general structured tree model with migration between subspecies, corresponding to the Figure S1 of the Supplementary Material.
+- simulated_genomic_stats : scripts used to compute the genetic diversity and the genetic differentiation on our genomic simulated data
 - snif_inference : parameter files used to run SNIF (Arredondo et al. 2021) on the empirical PSMC curves of chimpanzees (curves from Prado Martinez et al. 2013)
 - snif_validationstep: parameter files used for the "validation step" to run SNIF on the simulated T2 and simulated PSMC under the inferred models
 
