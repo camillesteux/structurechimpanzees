@@ -1,5 +1,4 @@
 # Code for the paper On the demographic history of chimpanzees and some consequences of integrating population structure in chimpanzees and other great apes
-### Camille Steux, Clément Couloigner, Armando Arredondo, Willy Rodríguez, Olivier Mazet, Rémi Tournebize and Lounès Chikhi
 
 Cite: Steux C, Couloigner C, Arredondo A, Rodríguez W, Mazet O, Tournebize R, Chikhi L. On the Demographic History of Chimpanzees and Some Consequences of Integrating Population Structure in Chimpanzees and Other Great Apes. Hum Popul Genet Genom 2025; 5(2):0004. https://doi.org/10.47248/hpgg2505020004
 
