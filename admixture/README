@@ -1,0 +1,16 @@
+# Rémi Tournebize - remi(dot)tournebize(at)ird(dot)fr
+
+'pipeline.sh': full pipeline
+
+	- 'simulate_chimp.py': script to simulate genetic data
+		- 'chimp.py': subscript called by simulate_chimp.py
+		- 'chimp.yaml': the demographic model, in YAML-demes format
+		- 'chimp.est': empty, yet required
+
+	- 'sumstats_chimp.py': script to calculate summary statistics
+		- 'pop_pairs.txt': all population pairs to analyze
+		- 'chimp.spar': statistical parameters
+
+	- 'chimp.R': script to generate the plots
+
+#___

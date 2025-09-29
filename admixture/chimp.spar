@@ -1,0 +1,7 @@
+seed                                       42
+genetic_pos_unit                           M
+
+D_do_pseudodiploid                         NO
+do_MAC_sensitive_SNP_downsampling          NO
+
+#___
