@@ -6,7 +6,6 @@ This repository consists of the following directories:
 - general_model_mscommands : ms commands (Hudson 2002) corresponding to the general structured tree model shown in Figure 7 of the paper for different values of splitting times
 - general_model_withsubspmig_mscommands : ms commands corresponding to the general structured tree model with migration between subspecies, corresponding to the Figure S1 of the Supplementary Material.
 - simulated_genomic_stats : scripts used to compute the genetic diversity and the genetic differentiation of our simulated genomic data
-- snif_inference : parameter files used to run SNIF (Arredondo et al. 2021) on the empirical PSMC curves of chimpanzees (curves from Prado Martinez et al. 2013)
+- snif_inference : parameter files used to run SNIF, scenarios inferred by SNIF and subspecies demographic scenarios (ms commands and .yaml files) used for the validation step and to build the general structured tree model
 - snif_validationstep: parameter files used for the "validation step" to run SNIF on the T2 and PSMC curves simulated under the inferred scenarios
 
-28/08/25 : Scripts used for the admixture part will be uploaded soon. We apologize for the inconvenience.
