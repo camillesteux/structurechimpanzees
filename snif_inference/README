@@ -1,0 +1,4 @@
+- .py files: parameters files used to run SNIF
+- .ms ms (Hudson) commands of the selected inferred scenarios used for the validation step and to build the General structured tree model
+- .yaml demographic scenarios in the .yaml format
+

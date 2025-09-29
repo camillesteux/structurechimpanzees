@@ -1,0 +1,73 @@
+time_units: generations
+generation_time: 1
+demes:
+- name: deme1
+  epochs:
+  - {end_time: 0, start_size: 1162}
+- name: deme2
+  epochs:
+  - {end_time: 0, start_size: 1162}
+- name: deme3
+  epochs:
+  - {end_time: 0, start_size: 1162}
+- name: deme4
+  epochs:
+  - {end_time: 0, start_size: 1162}
+- name: deme5
+  epochs:
+  - {end_time: 0, start_size: 1162}
+- name: deme6
+  epochs:
+  - {end_time: 0, start_size: 1162}
+- name: deme7
+  epochs:
+  - {end_time: 0, start_size: 1162}
+- name: deme8
+  epochs:
+  - {end_time: 0, start_size: 1162}
+- name: deme9
+  epochs:
+  - {end_time: 0, start_size: 1162}
+- name: deme10
+  epochs:
+  - {end_time: 0, start_size: 1162}
+- name: deme11
+  epochs:
+  - {end_time: 0, start_size: 1162}
+- name: deme12
+  epochs:
+  - {end_time: 0, start_size: 1162}
+migrations:
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12]
+  rate: 4.552163198247536e-06
+  end_time: 133373.03452015182
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12]
+  rate: 2.525856673447035e-05
+  start_time: 133373.03452015182
+  end_time: 96381.00608470388
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12]
+  rate: 0.000845407604443749
+  start_time: 96381.00608470388
+  end_time: 39816.298572203144
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12]
+  rate: 1.7986406665623533e-05
+  start_time: 39816.298572203144
+  end_time: 18112.991144044823
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12]
+  rate: 0.00015732964324831797
+  start_time: 18112.991144044823
+  end_time: 8890.17555274414
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12]
+  rate: 2.1754029103426692e-05
+  start_time: 8890.17555274414
+  end_time: 548.4750406651003
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12]
+  rate: 0.00013894734783288998
+  start_time: 548.4750406651003

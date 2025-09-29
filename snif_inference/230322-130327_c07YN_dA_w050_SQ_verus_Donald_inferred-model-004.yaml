@@ -1,0 +1,119 @@
+time_units: generations
+generation_time: 1
+demes:
+- name: deme1
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme2
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme3
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme4
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme5
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme6
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme7
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme8
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme9
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme10
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme11
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme12
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme13
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme14
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme15
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme16
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme17
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme18
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme19
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme20
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme21
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme22
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme23
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme24
+  epochs:
+  - {end_time: 0, start_size: 352}
+- name: deme25
+  epochs:
+  - {end_time: 0, start_size: 352}
+migrations:
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17, deme18, deme19, deme20, deme21,
+    deme22, deme23, deme24, deme25]
+  rate: 4.795099431818182e-06
+  end_time: 112860.53103685529
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17, deme18, deme19, deme20, deme21,
+    deme22, deme23, deme24, deme25]
+  rate: 4.0513731060606064e-05
+  start_time: 112860.53103685529
+  end_time: 36290.045404532495
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17, deme18, deme19, deme20, deme21,
+    deme22, deme23, deme24, deme25]
+  rate: 1.0250443892045454e-05
+  start_time: 36290.045404532495
+  end_time: 16315.253591563915
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17, deme18, deme19, deme20, deme21,
+    deme22, deme23, deme24, deme25]
+  rate: 0.0013955462831439394
+  start_time: 16315.253591563915
+  end_time: 8482.60884151629
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17, deme18, deme19, deme20, deme21,
+    deme22, deme23, deme24, deme25]
+  rate: 1.9515950520833333e-05
+  start_time: 8482.60884151629
+  end_time: 6338.565990100277
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17, deme18, deme19, deme20, deme21,
+    deme22, deme23, deme24, deme25]
+  rate: 3.8088304924242423e-06
+  start_time: 6338.565990100277
+  end_time: 1562.1015162327603
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17, deme18, deme19, deme20, deme21,
+    deme22, deme23, deme24, deme25]
+  rate: 0.0013001982717803031
+  start_time: 1562.1015162327603

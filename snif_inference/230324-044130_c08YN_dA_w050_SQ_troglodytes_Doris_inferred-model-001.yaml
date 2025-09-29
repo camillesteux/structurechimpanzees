@@ -1,0 +1,93 @@
+time_units: generations
+generation_time: 1
+demes:
+- name: deme1
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme2
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme3
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme4
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme5
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme6
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme7
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme8
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme9
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme10
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme11
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme12
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme13
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme14
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme15
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme16
+  epochs:
+  - {end_time: 0, start_size: 819}
+- name: deme17
+  epochs:
+  - {end_time: 0, start_size: 819}
+migrations:
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17]
+  rate: 2.7377327533577533e-05
+  end_time: 354925.3727697627
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17]
+  rate: 4.4039224664224664e-06
+  start_time: 354925.3727697627
+  end_time: 149331.91988793397
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17]
+  rate: 1.293986568986569e-05
+  start_time: 149331.91988793397
+  end_time: 108575.11635887997
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17]
+  rate: 0.0007722241300366301
+  start_time: 108575.11635887997
+  end_time: 36999.9998778705
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17]
+  rate: 1.3952247405372405e-05
+  start_time: 36999.9998778705
+  end_time: 25344.39627114214
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17]
+  rate: 5.144402472527473e-06
+  start_time: 25344.39627114214
+  end_time: 10809.30003920357
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17]
+  rate: 3.923840048840048e-06
+  start_time: 10809.30003920357
+  end_time: 2226.365523819527
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13, deme14, deme15, deme16, deme17]
+  rate: 0.0008338503510378509
+  start_time: 2226.365523819527

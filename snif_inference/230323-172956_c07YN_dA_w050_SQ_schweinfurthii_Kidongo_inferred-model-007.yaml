@@ -1,0 +1,76 @@
+time_units: generations
+generation_time: 1
+demes:
+- name: deme1
+  epochs:
+  - {end_time: 0, start_size: 723}
+- name: deme2
+  epochs:
+  - {end_time: 0, start_size: 723}
+- name: deme3
+  epochs:
+  - {end_time: 0, start_size: 723}
+- name: deme4
+  epochs:
+  - {end_time: 0, start_size: 723}
+- name: deme5
+  epochs:
+  - {end_time: 0, start_size: 723}
+- name: deme6
+  epochs:
+  - {end_time: 0, start_size: 723}
+- name: deme7
+  epochs:
+  - {end_time: 0, start_size: 723}
+- name: deme8
+  epochs:
+  - {end_time: 0, start_size: 723}
+- name: deme9
+  epochs:
+  - {end_time: 0, start_size: 723}
+- name: deme10
+  epochs:
+  - {end_time: 0, start_size: 723}
+- name: deme11
+  epochs:
+  - {end_time: 0, start_size: 723}
+- name: deme12
+  epochs:
+  - {end_time: 0, start_size: 723}
+- name: deme13
+  epochs:
+  - {end_time: 0, start_size: 723}
+migrations:
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13]
+  rate: 1.1384076763485477e-05
+  end_time: 399402.0281905205
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13]
+  rate: 4.3885142923005995e-06
+  start_time: 399402.0281905205
+  end_time: 130054.38106579585
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13]
+  rate: 2.115684071000461e-05
+  start_time: 130054.38106579585
+  end_time: 93548.73549291916
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13]
+  rate: 8.205538266482249e-05
+  start_time: 93548.73549291916
+  end_time: 43309.26088056995
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13]
+  rate: 1.8601890272014753e-05
+  start_time: 43309.26088056995
+  end_time: 29970.22692663577
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13]
+  rate: 5.976054633471646e-06
+  start_time: 29970.22692663577
+  end_time: 4660.761982215989
+- demes: [deme2, deme1, deme3, deme4, deme5, deme6, deme7, deme8, deme9, deme10, deme11,
+    deme12, deme13]
+  rate: 0.001430492162286768
+  start_time: 4660.761982215989
